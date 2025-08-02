@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hello, I'm CHANGEME
+<a href="https://www.linkedin.com/in/michael-sae-uong-aa0408119/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**csaeuong/csaeuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! This is my hands-on cybersecurity portfolio. It’s a place where I showcase my projects and put my skills to the test. Here, you’ll get to see my work, from computer-based security analysis to projects involving physical hardware. My goal is to always be learning and improving, and this portfolio is a direct look at that journey.
 
-Here are some ideas to get you started:
+## Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My passion for cybersecurity is what drives me to pursue a career in the field. I am specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. 
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Blank         | <a href="https://google.com">Detection Lab</a>|
+| Blank  | <a href="https://google.com">Detection Lab</a>|
+| Blank        | SOC Automation Lab|
+| Blank       | SOC Automation Lab|
+| Blank                  | SOC Automation Lab|
+| Blank | SOC Automation Lab|
+
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+### Network
+<div>
+TBA
+</div>
+
+### Endpoint
+<div>
+   TBA
+</div>
+
+### SIEM
+<div>
+   TBA
+</div>
+
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-ITF%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+
+</div>
+
+## Projects
+TBA
