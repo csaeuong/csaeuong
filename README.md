@@ -1,4 +1,4 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Chairatana Michael Sae-Uong
 <a href="https://www.linkedin.com/in/michael-sae-uong-aa0408119/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Welcome! This is my hands-on cybersecurity portfolio. It’s a place where I showcase my projects and put my skills to the test. Here, you’ll get to see my work, from computer-based security analysis to projects involving physical hardware. My goal is to always be learning and improving, and this portfolio is a direct look at that journey.
