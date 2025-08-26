@@ -11,12 +11,12 @@ My passion for cybersecurity is what drives me to pursue a career in the field. 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Blank         | <a href="https://google.com">Detection Lab</a>|
-| Blank  | <a href="https://google.com">Detection Lab</a>|
-| Blank        | SOC Automation Lab|
-| Blank       | SOC Automation Lab|
-| Blank                  | SOC Automation Lab|
-| Blank | SOC Automation Lab|
+| SOC, Analysis, SIEM | <a href="https://github.com/csaeuong/SOC-Analyst-Lab">SOC-Analyst-Lab - ELK Stack</a>|
+| Blank | Virtual Home Lab - Windows/Linux/pfSense (coming soon)|
+| Blank | Encryption/Steganography (coming soon)|
+| Blank | Automated AD Password Changer - PowerShell (coming soon)|
+| Blank | Python (coming soon)|
+| Blank | Raspberry Pi NAS (coming soon)|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
