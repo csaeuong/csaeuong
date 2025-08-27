@@ -34,29 +34,15 @@ Virtual / Software Tools
 - Mythic C2  
 - osTicket  
 
-### Network
-<div>
-TBA
-</div>
-
-### Endpoint
-<div>
-   TBA
-</div>
-
-### SIEM
-<div>
-   TBA
-</div>
-
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-ITF%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+<img width="175" height="175" alt="comptia-security-ce-certification (2)" src="https://github.com/user-attachments/assets/e496d182-f788-431f-ada8-1343bf1fc400" />
+<img width="175" height="175" alt="google-cybersecurity-certificate-comptia-security-d" src="https://github.com/user-attachments/assets/4d578a66-e23e-4512-84e0-81b565fe4ad7" />
+<img width="175" height="175" alt="google-cybersecurity-professional-certificate-v2 (2)" src="https://github.com/user-attachments/assets/2dfc5bb9-d691-4df7-9564-440ca75ebfbc" />
+<img width="155" height="155" alt="google-data-analytics-professional-certificate 2" src="https://github.com/user-attachments/assets/502ddc9d-d598-4ff5-af48-36e17e3b9530" />
+<img width="175" height="175" alt="comptia-it-fundamentals-itf-certification 1" src="https://github.com/user-attachments/assets/50a34a18-981c-48a0-a141-bd5b82a628b9" />
+
+
 
 </div>
-
-## Projects
-TBA
