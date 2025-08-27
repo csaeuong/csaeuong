@@ -7,7 +7,7 @@ Welcome! This is my hands-on cybersecurity portfolio. It’s a place where I sho
 
 My passion for cybersecurity is what drives me to pursue a career in the field. I am specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. 
 
-## Skills
+## Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
