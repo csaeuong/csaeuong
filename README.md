@@ -19,7 +19,20 @@ My passion for cybersecurity is what drives me to pursue a career in the field. 
 | Blank | Raspberry Pi NAS (coming soon)|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+Virtual / Software Tools
+- VirtualBox  
+- pfSense (Virtual)  
+- Wireshark  
+- Dameware  
+- PowerShell  
+- Vultr (Cloud Hosting)  
+- Elasticsearch  
+- Logstash  
+- Kibana  
+- Elastic Agents (Fleet / Beats)  
+- Kali Linux  
+- Mythic C2  
+- osTicket  
 
 ### Network
 <div>
