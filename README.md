@@ -20,23 +20,24 @@ My passion for cybersecurity is what drives me to pursue a career in the field. 
 |Codes & Scripting| Project  |
 |-----------------------------------------------|----------------------------|
 | Python | <a href="https://github.com/csaeuong/Python-Password-Gen"> Random Password Generator|
-
+| SQL| Database (coming soon)|
 
 ## Tools
-Virtual / Software Tools
-- VirtualBox  
-- pfSense (Virtual)  
-- Wireshark  
-- Dameware  
-- PowerShell  
-- Vultr (Cloud Hosting)  
-- Elasticsearch  
-- Logstash  
-- Kibana  
-- Elastic Agents (Fleet / Beats)  
-- Kali Linux  
-- Mythic C2  
-- osTicket  
+|Software|Language|
+|:--------:|:--------:|
+|VirtualBox| Python|
+|pfSense (Virtual) 
+| Wireshark |
+| Dameware |
+| PowerShell |
+| Vultr (Cloud Hosting) |
+| Elasticsearch|
+| Logstash |
+| Kibana |
+| Elastic Agents (Fleet / Beats) |
+| Kali Linux |
+|Mythic C2 |
+|osTicket |
 
 ## Certifications
 
