@@ -9,14 +9,18 @@ My passion for cybersecurity is what drives me to pursue a career in the field. 
 
 ## Projects
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Project         |
 |-----------------------------------------------|----------------------------|
 | SOC, Analysis, SIEM | <a href="https://github.com/csaeuong/SOC-Analyst-Lab">SOC-Analyst-Lab - ELK Stack</a>|
 | Blank | Virtual Home Lab - Windows/Linux/pfSense (coming soon)|
 | Blank | Encryption/Steganography (coming soon)|
 | Blank | Automated AD Password Changer - PowerShell (coming soon)|
-| Blank | Python (coming soon)|
 | Blank | Raspberry Pi NAS (coming soon)|
+
+|Codes & Scripting| Project  |
+|-----------------------------------------------|----------------------------|
+| Python | <a href="https://github.com/csaeuong/Python-Password-Gen"> Random Password Generator|
+
 
 ## Tools
 Virtual / Software Tools
