@@ -12,6 +12,7 @@ My passion for cybersecurity is what drives me to pursue a career in the field. 
 | Skill                                         | Project         |
 |-----------------------------------------------|----------------------------|
 | SOC, Analysis, SIEM | <a href="https://github.com/csaeuong/SOC-Analyst-Lab">SOC-Analyst-Lab - ELK Stack</a>|
+|nmap scan, Analysis| <a href="https://github.com/csaeuong/nmap">nmap scan</a>|
 | Blank | Virtual Home Lab - Windows/Linux/pfSense (coming soon)|
 | Blank | Encryption/Steganography (coming soon)|
 | Blank | Automated AD Password Changer - PowerShell (coming soon)|
