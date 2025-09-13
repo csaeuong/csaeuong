@@ -22,6 +22,7 @@ My passion for cybersecurity is what drives me to pursue a career in the field. 
 |-----------------------------------------------|----------------------------|
 | Python | <a href="https://github.com/csaeuong/Python-Password-Gen"> Random Password Generator|
 | Python |<a href="https://github.com/csaeuong/account-manager"> Account Manager|
+| Python |<a href="https://github.com/csaeuong/Cryptography-Cipher"> Cryptography-Cipher|
 | SQL| Database (coming soon)|
 
 ## Tools
