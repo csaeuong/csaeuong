@@ -50,7 +50,7 @@ My passion for networking and cybersecurity drives me to continually develop my 
 <img width="175" height="175" alt="google-cybersecurity-professional-certificate-v2 (2)" src="https://github.com/user-attachments/assets/2dfc5bb9-d691-4df7-9564-440ca75ebfbc" />
 <img width="155" height="155" alt="google-data-analytics-professional-certificate 2" src="https://github.com/user-attachments/assets/502ddc9d-d598-4ff5-af48-36e17e3b9530" />
 <img width="175" height="175" alt="comptia-it-fundamentals-itf-certification 1" src="https://github.com/user-attachments/assets/50a34a18-981c-48a0-a141-bd5b82a628b9" />
-<img width="601" height="601" alt="comptia-network-ce-certification 1" src="https://github.com/user-attachments/assets/cc9f2f70-f6f2-4d33-b3eb-15f5c17be28f" />
+<img width="175" height="175" alt="comptia-network-ce-certification 1" src="https://github.com/user-attachments/assets/cc9f2f70-f6f2-4d33-b3eb-15f5c17be28f" />
 
 
 
