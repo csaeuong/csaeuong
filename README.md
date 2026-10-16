@@ -1,11 +1,11 @@
 # Hello, I'm Chairatana Michael Sae-Uong
 <a href="https://www.linkedin.com/in/michael-sae-uong-aa0408119/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome! This is my hands-on cybersecurity portfolio. It’s a place where I showcase my projects and put my skills to the test. Here, you’ll get to see my work, from computer-based security analysis to projects involving physical hardware. My goal is to always be learning and improving, and this portfolio is a direct look at that journey.
+Welcome! This is my hands-on IT portfolio, where I showcase projects across networking and cybersecurity. From configuring network devices and troubleshooting connectivity to exploring security analysis, system administration, and physical hardware, this portfolio highlights my practical experience and continuous learning. My goal is to keep expanding my technical skills, tackling new challenges, and growing as an IT professional with a focus on networking and cybersecurity.
 
 ## Objective
 
-My passion for cybersecurity is what drives me to pursue a career in the field. I am specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. 
+My passion for networking and cybersecurity drives me to continually develop my technical skills and pursue new challenges in IT. I aim to build a career focused on network infrastructure, troubleshooting, and security, combining my hands-on experience with a commitment to continuous learning and professional growth.
 
 ## Projects
 
